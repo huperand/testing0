@@ -19,3 +19,7 @@ source ~/cairo_venv_v11/bin/activate
 
 If you had cairo-lang installed previously, uninstall it
 pip3 uninstall cairo-lang
+
+Compile your contract using Cairo
+You can use this smol demo contract to complete this test. It's a very basic event logger.
+From your terminal, in the folder you installed Cairo in
