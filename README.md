@@ -15,3 +15,7 @@ cargo build --all --release
 Set up a python virtual environment
 python3.9 -m venv ~/cairo_venv_v11
 source ~/cairo_venv_v11/bin/activate
+
+
+If you had cairo-lang installed previously, uninstall it
+pip3 uninstall cairo-lang
