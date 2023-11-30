@@ -1,3 +1,5 @@
+//this is a test contract
+
 #[contract]
 mod HelloStarknet {
     use starknet::get_caller_address;
